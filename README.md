@@ -1,2 +1,4 @@
-# paper_db
-Personal paper db. For study purpose only.
+# eiphy-zotero-enhancement (EZE)
+Personal add-on features for zotero.
+
+## Paper Scraping

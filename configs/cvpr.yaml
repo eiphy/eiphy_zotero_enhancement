@@ -1,0 +1,7 @@
+name: cvpr
+configs:
+  y2022:
+    url: 
+      main: https://openaccess.thecvf.com/CVPR2022
+      workshop: https://openaccess.thecvf.com/CVPR2022_workshops/menu
+      demos: https://openaccess.thecvf.com/CVPR2022_demos
